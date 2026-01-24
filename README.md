@@ -13,7 +13,7 @@
 
 ### Techs:
 <div display:"flex">
-  <img src="images/logo-python" height="36px" width="36px" border-radius:"50%""/>
+  <img src="images/logo-python.svg" height="36px" width="36px" border-radius:"50%""/>
 </div>
 
 
