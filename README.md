@@ -3,17 +3,20 @@
 <p>📖 Cientista da Computação - UECE</p>
 <p>🧑‍💻 Faço projetos utilizando as linguagens JavaScript, Python e Java</p>
 
+### Techs:
+<div display:"flex">
+  <img src="images/logo-python.svg" height="36px" width="36px" border-radius:"50%""/>
+  <img src="images/logo-tf.svg" height="36px" width="36px" border-radius:"50%""/>
+  <img src="images/scikit-learn.svg" height="36px" width="36px" border-radius:"50%""/>
+  <img src="images/logo_ollama.svg" height="36px" width="36px" border-radius:"50%""/>
+</div>
+
 ### Redes sociais:
 
 <div display:"flex">
   <img src="https://user-images.githubusercontent.com/112807562/236691104-4d22b3c9-af00-485b-bda2-22b0ddce239b.png" height="36px" width="36px" border-radius:"50%""/>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-cide-de-abreu-152007288"><img src="https://user-images.githubusercontent.com/112807562/259846122-ad8776d0-054e-42ca-a7d9-2596d585ad7f.png" height="36px" width="36px" border-radius:"50%""/></a>
 
-</div>
-
-### Techs:
-<div display:"flex">
-  <img src="images/logo-python.svg" height="36px" width="36px" border-radius:"50%""/>
 </div>
 
 
