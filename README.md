@@ -1,7 +1,7 @@
 ### Sobre mim: 
 
 <p>📖 Cientista da Computação - UECE</p>
-<p>🧑‍💻 Faço projetos relacionados à área de Ciência de Dados utilizando Python e ferramentas relacionadas (Tensorflow, Sklearn, Langchain, Qdrant, etc...)</p>
+<p>🧑‍💻 Faço projetos relacionados à área de Ciência de Dados utilizando Python e ferramentas relacionadas.
 
 ### Techs:
 <div display:"flex">
