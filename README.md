@@ -8,6 +8,9 @@
   <a href="https://docs.python.org/3"><img src="images/logo-python.svg" height="36px" width="36px" border-radius:"50%""/></a>
   <a href="https://www.tensorflow.org/api_docs"><img src="images/logo-tf.svg" height="36px" width="36px" border-radius:"50%""/></a>
   <a href="https://scikit-learn.org/stable/"><img src="images/scikit-learn.svg" height="36px" width="36px" border-radius:"50%""/></a>
+  <a href="https://scikit-learn.org/stable/"><img src="images/qdrant.svg" height="36px" width="36px" border-radius:"50%""/></a>
+  <a href="https://scikit-learn.org/stable/"><img src="images/langchain.svg" height="36px" width="36px" border-radius:"50%""/></a>
+  <a href="https://scikit-learn.org/stable/"><img src="images/postgres.svg" height="36px" width="36px" border-radius:"50%""/></a>
 </div>
 
 ### Redes sociais:
