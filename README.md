@@ -11,6 +11,7 @@
   <a href="https://scikit-learn.org/stable/"><img src="images/qdrant.svg" height="36px" width="36px" border-radius:"50%""/></a>
   <a href="https://scikit-learn.org/stable/"><img src="images/langchain.svg" height="36px" width="36px" border-radius:"50%""/></a>
   <a href="https://scikit-learn.org/stable/"><img src="images/postgres.svg" height="36px" width="36px" border-radius:"50%""/></a>
+  <a href="https://scikit-learn.org/stable/"><img src="images/powerbi.svg" height="36px" width="36px" border-radius:"50%""/></a>
 </div>
 
 ### Redes sociais:
