@@ -1,7 +1,7 @@
-### Sobre mim: 
+### About me: 
 
-<p>📖 Cientista da Computação - UECE</p>
-<p>🧑‍💻 Faço projetos relacionados à área de Ciência de Dados utilizando Python e ferramentas relacionadas.
+<p>📖 Computer Scientist - UECE</p>
+<p>🧑‍💻 Doing projects related to Data Science using python and related tools.
 
 ### Techs:
 <div display:"flex">
@@ -14,7 +14,7 @@
   <a href="https://scikit-learn.org/stable/"><img src="images/powerbi.svg" height="36px" width="36px" border-radius:"50%""/></a>
 </div>
 
-### Redes sociais:
+### Social Medias:
 
 <div display:"flex">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-cide-de-abreu-152007288"><img src="https://user-images.githubusercontent.com/112807562/259846122-ad8776d0-054e-42ca-a7d9-2596d585ad7f.png" height="36px" width="36px" border-radius:"50%""/></a>
